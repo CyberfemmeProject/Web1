@@ -1,5 +1,6 @@
 body{
   margin:0;
+
 }
 a {color:black;
   text-decoration: none;
@@ -25,4 +26,11 @@ ol{
   }
   #article{
     padding-left: 30px;}
-    
+
+    #pin{ width:30px; position: bottom; left:100px; top:100px; }
+    #pin2{ width:30px; position: middle; left:50px; }
+    #pin3{ width:30px; position: middle; left:40px; top:100px; }
+    #pin4{ width:30px; position: middle; left:20px; top:100px; }
+    #pin5{ width:30px; position: middle; left:70px; top:100px; }
+    #pin6{ width:30px; position: middle; left:20px; top:100px; }
+    #pin7{ width:30px; position: middle; left:70px; top:100px; }
